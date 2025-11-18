@@ -20,7 +20,7 @@ export default function Experience() {
         <ExperienceCard
           date="Avr 2024 – Juin 2024"
           title="Stage en Développement Mobile & Web"
-          company="Niaajee de Parfum"
+          company="cité d'innovation"
           location="Marrakech"
           missions={[
             "Développement et optimisation d’une application mobile commerciale",
@@ -28,21 +28,21 @@ export default function Experience() {
             "Intégration de fonctionnalités de gestion du catalogue",
             "Collaboration avec l'équipe pour améliorer l’expérience client",
           ]}
-          tech={["React Native", "JavaScript", "API", "UI/UX"]}
+          tech={["Django ", "Python", "sqlite",]}
         />
 
         {/* EXPERIENCE 2 */}
         <ExperienceCard
           date="Juin 2023 – Juil 2023"
           title="Développement d’un lecteur de musique"
-          company="Projet Académique"
+          company="UPXP Africa"
           location="Marrakech"
           missions={[
             "Conception d’un lecteur audio intelligent",
             "Création d’une interface ergonomique",
             "Implémentation des fonctionnalités audio",
           ]}
-          tech={["Python", "Tkinter", "UX Design"]}
+          tech={["react", "Mongodb", ]}
         />
 
         {/* EXPERIENCE 3 */}

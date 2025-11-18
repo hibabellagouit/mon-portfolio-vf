@@ -12,7 +12,7 @@ export const projects: Project[] = [
   {
     title: "Ujuke — Lecteur de musique",
     period: "2022 — 2023",
-    tags: ["Java", "UML", "Merise", "Desktop"],
+    tags: ["react", "MongoDB", "Merise"],
     company: "Entreprise à Marrakech",
     location: "Marrakech",
     context: "Stage DUT (travail de groupe)",
@@ -21,12 +21,22 @@ export const projects: Project[] = [
   },
   {
     title: "Sklep — Application de vente en ligne",
-    period: "2023 — 2024",
-    tags: ["React", "JavaScript", "E-commerce", "UX/UI"],
+    period: "2022 — 2023",
+    tags: ["Ionic", "Laravel", "Angular", "Mysql"],
     company: "Cité d’Innovation de Marrakech",
     location: "Marrakech",
-    context: "Stage de fin d’études (Licence professionnelle)",
+    context: "Stage de fin d’études (Projet de Fin d'etude DUT)",
     summary:
       "Développement d’une application web de vente en ligne. Mise en place du front-end en React, gestion du catalogue produits, panier, et interfaces utilisateur adaptées aux besoins du projet.",
+  },
+{
+    title: "La Prédiction des  crédits de Logement ",
+    period: "2023 — 2024",
+    tags: ["python", "Flask", "Vue.js", "Postman"],
+    company: "École Supérieure de Technologie de Sale",
+    location: "Sale",
+    context: "Projet",
+    summary:
+      "La Prédiction des  crédits de Logement .",
   },
 ];
