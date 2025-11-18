@@ -4,7 +4,7 @@ export default function PhotoCard() {
                     bg-gradient-to-br from-pink-500/20 via-purple-500/20 to-blue-500/20
                     border border-white/20 backdrop-blur">
       <img
-        src="/src/assets/profile1.jpeg"
+        src="/profile1.jpg"
         alt="Hiba"
         className="w-full h-full object-cover rounded-3xl"
       />
